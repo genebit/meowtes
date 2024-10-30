@@ -1,0 +1,6 @@
+[submodule "app.web"]
+	path = app.web
+	url = https://github.com/genebit/meowtes-web
+[submodule "app.api"]
+	path = app.api
+	url = https://github.com/genebit/meowtes-api
